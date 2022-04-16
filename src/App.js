@@ -20,7 +20,7 @@ const App = () => {
           <Route exact path="/">
             <News
               setProgress={setProgress}
-              apiKey={apiKey}
+              apiKey={"b17bf618bc394910b853c9e4728bd364"}
               key="general"
               pageSize={pageSize}
               country="in"
@@ -30,7 +30,7 @@ const App = () => {
           <Route exact path="/business">
             <News
               setProgress={setProgress}
-              apiKey={apiKey}
+              apiKey={"b17bf618bc394910b853c9e4728bd364"}
               key="business"
               pageSize={pageSize}
               country="in"
@@ -40,7 +40,7 @@ const App = () => {
           <Route exact path="/entertainment">
             <News
               setProgress={setProgress}
-              apiKey={apiKey}
+              apiKey={"b17bf618bc394910b853c9e4728bd364"}
               key="entertainment"
               pageSize={pageSize}
               country="in"
@@ -50,7 +50,7 @@ const App = () => {
           <Route exact path="/general">
             <News
               setProgress={setProgress}
-              apiKey={apiKey}
+              apiKey={"b17bf618bc394910b853c9e4728bd364"}
               key="general"
               pageSize={pageSize}
               country="in"
@@ -60,7 +60,7 @@ const App = () => {
           <Route exact path="/health">
             <News
               setProgress={setProgress}
-              apiKey={apiKey}
+              apiKey={"b17bf618bc394910b853c9e4728bd364"}
               key="health"
               pageSize={pageSize}
               country="in"
@@ -70,7 +70,7 @@ const App = () => {
           <Route exact path="/science">
             <News
               setProgress={setProgress}
-              apiKey={apiKey}
+              apiKey={"b17bf618bc394910b853c9e4728bd364"}
               key="science"
               pageSize={pageSize}
               country="in"
@@ -80,7 +80,7 @@ const App = () => {
           <Route exact path="/sports">
             <News
               setProgress={setProgress}
-              apiKey={apiKey}
+              apiKey={"b17bf618bc394910b853c9e4728bd364"}
               key="sports"
               pageSize={pageSize}
               country="in"
@@ -90,7 +90,7 @@ const App = () => {
           <Route exact path="/technology">
             <News
               setProgress={setProgress}
-              apiKey={apiKey}
+              apiKey={"b17bf618bc394910b853c9e4728bd364"}
               key="technology"
               pageSize={pageSize}
               country="in"
